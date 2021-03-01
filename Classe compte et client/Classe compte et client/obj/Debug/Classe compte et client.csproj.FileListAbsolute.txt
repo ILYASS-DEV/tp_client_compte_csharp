@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C# OOP\Classe compte et client\Classe compte et client\bin\Debug\Classe compte et client.exe.config
+C:\Users\admin\Desktop\C# OOP\Classe compte et client\Classe compte et client\bin\Debug\Classe compte et client.exe
+C:\Users\admin\Desktop\C# OOP\Classe compte et client\Classe compte et client\bin\Debug\Classe compte et client.pdb
+C:\Users\admin\Desktop\C# OOP\Classe compte et client\Classe compte et client\obj\Debug\Classe compte et client.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\C# OOP\Classe compte et client\Classe compte et client\obj\Debug\Classe compte et client.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C# OOP\Classe compte et client\Classe compte et client\obj\Debug\Classe compte et client.exe
+C:\Users\admin\Desktop\C# OOP\Classe compte et client\Classe compte et client\obj\Debug\Classe compte et client.pdb
